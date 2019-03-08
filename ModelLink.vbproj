@@ -27,7 +27,7 @@
     <InstallUrl>\\DATAVAULT1\PRINTRM\Specials Eng Ref\Templates\RS Generator_Excel\Programs\ModelLink\</InstallUrl>
     <ProductName>ModelLink</ProductName>
     <PublisherName>Chris McCluer</PublisherName>
-    <ApplicationRevision>7</ApplicationRevision>
+    <ApplicationRevision>8</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
